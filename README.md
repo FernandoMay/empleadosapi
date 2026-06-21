@@ -1,14 +1,22 @@
-## Micronaut 3.7.2 Documentation
+# empleadosapi
 
-- [User Guide](https://docs.micronaut.io/3.7.2/guide/index.html)
-- [API Reference](https://docs.micronaut.io/3.7.2/api/index.html)
-- [Configuration Reference](https://docs.micronaut.io/3.7.2/guide/configurationreference.html)
-- [Micronaut Guides](https://guides.micronaut.io/index.html)
----
+Micronaut Empleadosapi Application
 
-- [Shadow Gradle Plugin](https://plugins.gradle.org/plugin/com.github.johnrengelman.shadow)
-## Feature http-client documentation
+## Overview
 
-- [Micronaut HTTP Client documentation](https://docs.micronaut.io/latest/guide/index.html#httpClient)
+| Attribute | Details |
+|-----------|---------|
+| **Language** | Java |
+| **Size** | ~0.1 MB |
+| **Last Updated** | 2022-10-21T23:26:59Z |
 
+## Getting Started
 
+```bash
+git clone https://github.com/FernandoMay/empleadosapi.git
+cd empleadosapi
+```
+
+## License
+
+MIT
